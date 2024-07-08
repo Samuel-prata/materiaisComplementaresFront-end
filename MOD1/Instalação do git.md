@@ -153,6 +153,23 @@
 - E para verificar se está instalado só clicar com o botão direito do mouse e você vera o nome(como esta na foto a cima)
 > Sé seu sistema operacional for o windows 11 clique com o botão direito e vá em "mais opções" e você vera o nome(como esta na foto a cima)
 
+
 ---
 
+# Para Linux
+
+Assim como os demais programas, você pode fazer a instalação através de uma ferramenta de gerenciamento de pacotes que vem com a sua distribuição. Caso esteja usando o *Fedora*, você pode utilizar o yum
+
+`sudo yum install git-all`
+
+Já nas distribuições baseada em Debian, como o Ubuntu, use o apt-get:
+
+`sudo apt-get install git-all`
+
+
+> Ps: Não esqueçam de atualizar os pacotes para fazer a instalação
+
+<br>
+
+---
 ## 🥳 Instalação concluida !

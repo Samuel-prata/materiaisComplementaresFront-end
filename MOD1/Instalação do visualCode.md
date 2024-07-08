@@ -1,6 +1,8 @@
 # Instalação visual studio Code
 
-- Acessando o Visual studio Code [https://code.visualstudio.com/] para a instalação 
+
+ - ## Para Windows
+  Acessando o Visual studio Code [https://code.visualstudio.com/] para a instalação 
 
 <div>
 <img src="./assets/code-6.png" />
@@ -46,6 +48,21 @@
 <img src="./assets/code-5.png" />
 </div>
 - Você será redirecionado para o Visual studio Code com essa interface
+
+---
+<br>
+
+ - ## Para Linux 
+
+A instalação no Linux é relativamente simples. Acesse o [Site oficial do Visual Studio Code](https://code.visualstudio.com/) e faça o Download da sua última versão, clicando no botão *Download for Linux*
+
+Após isso, um pacote .deb será adicionado na pasta de Downloads. 
+
+O próximo passo é navegar até a pasta no terminal e executar o seguinte comando
+
+`sudo apt install ./arquivo.deb`
+
+E Voila. Instalação realizada. O aplicativo já deve aparecer no menu de aplicativos para você.
 
 ---
 
